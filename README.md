@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Kamo Avanesyan 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python developer</h3>
+
+### Here's what I can do.
+
+### Test tasks:
+- [Phone crawler for Ozon](https://github.com/kamo-develop/phones_crawler)
 
 <!--
 **kamo-develop/kamo-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
