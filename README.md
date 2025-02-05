@@ -5,6 +5,7 @@
 ### Here's what I can do.
 
 ### Test tasks:
+- [FastAPI test project](https://github.com/kamo-develop/library_management)
 - [Phone crawler for Ozon](https://github.com/kamo-develop/phones_crawler)
 
 <!--
