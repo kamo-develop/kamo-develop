@@ -5,7 +5,7 @@
 ### Here's what I can do.
 
 ### My pet-projects
-- [Telegram bot with quotes from books](https://github.com/kamo-develop/tg_book_quotes)
+- [Telegram bot (aiogram) with quotes from books](https://github.com/kamo-develop/tg_book_quotes)
 - [Bot for tracking pumps on the cryptocurrency exchange](https://github.com/kamo-develop/okx_pump_search)
 
 ### Test tasks:
