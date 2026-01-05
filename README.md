@@ -9,6 +9,7 @@
 - [Bot for tracking pumps on the cryptocurrency exchange](https://github.com/kamo-develop/okx_pump_search)
 
 ### Test tasks:
+- [Parser for Wildberries](https://github.com/kamo-develop/parser_wb)
 - [FastAPI test project](https://github.com/kamo-develop/library_management)
 - [Phone crawler for Ozon](https://github.com/kamo-develop/phones_crawler)
 
