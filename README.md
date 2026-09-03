@@ -7,6 +7,7 @@
 ### My pet-projects
 - [Telegram bot (aiogram) with quotes from books](https://github.com/kamo-develop/tg_book_quotes)
 - [Bot for tracking pumps on the cryptocurrency exchange](https://github.com/kamo-develop/okx_pump_search)
+- [Pet project AQA](https://github.com/kamo-develop/pet_aqa)
 
 ### Test tasks:
 - [Parser for Wildberries](https://github.com/kamo-develop/parser_wb)
